@@ -1,0 +1,25 @@
+.expenses-filter{
+    border-radius: 12px;
+    box-shadow: 0 1px 9px rgba(0,0,0,0.25);
+}
+.expenses-filter__control{
+    color: white;
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+    font-size: 1.5em;
+    margin-bottom: 25px;
+}
+.select{
+    padding: 0.5rem ;
+    border-radius: 10px;
+    background-color: #fff;
+    
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+.select:hover{
+    position: relative;
+    display: inline-block;
+}
